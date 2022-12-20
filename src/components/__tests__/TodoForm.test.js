@@ -1,7 +1,7 @@
 import { render, screen, cleanup } from '@testing-library/react';
 import '@testing-library/jest-dom';
 import TodoForm from '../TodoForm/TodoForm';
-import { ThemeContext } from "C:/Users/jakub/IdeaProjects/todo-app/src/App";
+import { ThemeContext } from "C:/Users/jakub/IdeaProjects/todo-app/src/App.js";
 import { TodoContext } from "../../context/TodoContext/TodoContext";
 import SelectTextFields from "../Category/Category";
 
