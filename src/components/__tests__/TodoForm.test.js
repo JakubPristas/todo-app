@@ -3,7 +3,6 @@ import '@testing-library/jest-dom';
 import TodoForm from '../TodoForm/TodoForm';
 import { ThemeContext } from "C:/Users/jakub/IdeaProjects/todo-app/src/App";
 import { TodoContext } from "../../context/TodoContext/TodoContext";
-import "C:/Users/jakub/IdeaProjects/todo-app/src/styles/App.css";
 import SelectTextFields from "../Category/Category";
 
 test('should render TodoFrom component', () =>  {
