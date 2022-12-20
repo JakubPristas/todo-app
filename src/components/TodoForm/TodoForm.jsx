@@ -4,7 +4,7 @@ import SelectTextFields from "../Category/Category";
 import { useContext, useState } from "react";
 import { TodoContext } from "../../context/TodoContext/TodoContext";
 //import { ThemeContext } from "@emotion/react";
-import { ThemeContext } from "C:/Users/jakub/IdeaProjects/todo-app/src/App.js";
+import { ThemeContext } from "C:/Users/jakub/IdeaProjects/todo-app/src/app.js";
 import { ClassNames } from "@emotion/react";
 import { InputLabelClasses } from "@mui/material";
 import { withStyles } from "@mui/material";
