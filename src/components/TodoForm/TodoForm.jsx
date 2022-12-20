@@ -3,7 +3,6 @@ import { Typography, TextField, Button } from "@mui/material";
 import SelectTextFields from "../Category/Category";
 import { useContext, useState } from "react";
 import { TodoContext } from "../../context/TodoContext/TodoContext";
-import "C:/Users/jakub/IdeaProjects/todo-app/src/styles/App.css";
 //import { ThemeContext } from "@emotion/react";
 import { ThemeContext } from "C:/Users/jakub/IdeaProjects/todo-app/src/App";
 import { ClassNames } from "@emotion/react";
