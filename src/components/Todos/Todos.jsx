@@ -5,7 +5,7 @@ import { TodoContext } from "../../context/TodoContext/TodoContext";
 import Todo from "../Todo/Todo";
 import "C:/Users/jakub/IdeaProjects/todo-app/src/styles/App.css";
 //import { ThemeContext } from "@emotion/react";
-import { ThemeContext } from "C:/Users/jakub/IdeaProjects/todo-app/src/App";
+import { ThemeContext } from "../../App.js";
 
 function Todos(props) {
 	const { state } = useContext(TodoContext);
