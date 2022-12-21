@@ -7,3 +7,7 @@ test('should render Navbar component', () =>  {
     const navbarElement = screen.getByTestId('todo-2');
     expect(navbarElement).toBeInTheDocument();
 })
+
+/*test('test', () => {
+    expect(true).toBe(true);
+ })*/
